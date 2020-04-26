@@ -7,6 +7,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+__init__.py
 
 # C extensions
 *.so
@@ -119,5 +120,8 @@ ENV/
 env.bak/
 venv.bak/
 pip-selfcheck.json
+
+# vscode
+.vscode
 
 # End of https://www.gitignore.io/api/venv,python
